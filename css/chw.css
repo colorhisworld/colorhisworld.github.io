@@ -1,0 +1,11 @@
+.download-link {
+    color: limegreen;
+}
+
+.download-link:hover {
+    color: green;
+}
+
+.download-link i {
+    font-size: 220pt;
+}
